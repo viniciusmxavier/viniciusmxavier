@@ -14,14 +14,14 @@ Hello! I'm Vinicius Mesquita Xavier, a student of Information Systems at the Uni
 
 Currently, I am honing my skills in programming and information technology. I have interests in areas such as software development, data science, and artificial intelligence.
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinnymesq&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 ## 🌐 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/vinicius-mesquitax/)
 
 Feel free to reach out and share experiences!
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinnymesq&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
