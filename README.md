@@ -20,6 +20,7 @@ Currently, I am honing my skills in programming and information technology. I ha
 
 Feel free to reach out and share experiences!
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinnymesq&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 <div style="display: inline_block"><br>
