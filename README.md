@@ -14,7 +14,7 @@ Hello! I'm Vinicius Mesquita Xavier, a student of Information Systems at the Uni
 
 Currently, I am honing my skills in programming and information technology. I have interests in areas such as software development, data science, and artificial intelligence.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viniciusmxavier&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciusmxavier&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## 🌐 Connect with me
