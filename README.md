@@ -20,6 +20,7 @@ Currently, I am honing my skills in programming and information technology. I ha
 ## 🌐 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/vinicius-mesquitax/)
+- [Credly](https://www.credly.com/users/viniciusmxavier)
 
 Feel free to reach out and share experiences!
 
