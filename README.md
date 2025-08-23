@@ -10,13 +10,6 @@ Hello! I'm Vinicius Mesquita Xavier, a student of Information Systems at the Uni
 - **Technical Course in Computer Science**
   - Foundation Institute of Education of Barueri (FIEB)
 
-## 📚 Skills and Interests
-
-Currently, I am honing my skills in programming and information technology. I have interests in areas such as software development, data science, and artificial intelligence.
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciusmxavier&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 ## 🌐 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/vinicius-mesquitax/)
